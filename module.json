@@ -1,7 +1,7 @@
 {
-    "disableAutoUpdate": true,
+    "disableAutoUpdate": false,
     "options": {
         "niceName": "GIU"
     },
-    "servers": ["https://raw.githubusercontent.com/SaltyMonkey/skill-prediction/master/"]
+    "servers": ["https://raw.githubusercontent.com/MarcMarabou/Generic-Item-User/master/"]
 }
